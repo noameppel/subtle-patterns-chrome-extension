@@ -1,0 +1,21 @@
+{
+ "background": {"scripts": ["background.js"]},
+ "browser_action": {
+ "default_icon": "icon-128.png",
+ "default_title": "SubtlePatterns Chrome Extension"
+ },
+ "name": "SubtlePatterns Chrome Extension",
+ "description": "SubtlePatterns Chrome Extension Based on the Subtle Patters Bookmarklet https://github.com/bradjasper/subtle-patterns-bookmarklet",
+ "homepage_url": "https://github.com/cleanforestco/subtle-patterns-chrome-extension",
+ "icons": {
+     "16": "icon-16.png",
+     "48": "icon-48.png",
+     "128": "icon-128.png" },
+ "permissions": [
+     "tabs",
+     "http://*/*",
+     "https://*/*"
+ ],
+ "version": "1.0",
+ "manifest_version": 2
+}
