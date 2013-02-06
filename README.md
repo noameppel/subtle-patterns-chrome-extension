@@ -9,7 +9,7 @@ https://github.com/bradjasper/subtle-patterns-bookmarklet
 
 How To Use:
 ==========
-1. Download / Clone.
+1. Download the files or git clone.
 2. In Google Chrome go to extensions settings: Menu > Tools > Extensions
 3. Tick "Developer mode" (top right).
 4. Click on the "Load unpacked extension..." checkbox and then select your unzipped folder.
